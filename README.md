@@ -27,10 +27,6 @@ To design a website to perform mathematical calculations in server side.
 
 ### Step 6:
 
-
-
-### Step 6:
-
 Publish the website in the given URL.
 
 ## PROGRAM :
